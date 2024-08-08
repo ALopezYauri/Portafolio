@@ -9,6 +9,8 @@
 
 * Flex-box
 
+* JS
+
 ## Hecho por:
 
 ###Alex Lopez
